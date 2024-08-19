@@ -1,6 +1,6 @@
 # GenAI Project - Product Description Generator
 
-This repository contains an application that leverages OpenAI to generate product descriptions based on a set of input .csv files. 
+This repository contains an application that leverages OpenAI to generate product descriptions based on a set of input *.csv* files. 
 
 ![Alt text](img/product_description_generator.png)
 

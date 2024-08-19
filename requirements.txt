@@ -1,0 +1,6 @@
+python-dotenv
+pandas
+openai==v0.28.1
+langchain==0.0.330
+streamlit
+chardet
